@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="order_summary_name"></string>
+    <string name="thank_you">Obrigado!</string>
+    <string name="toppings">Cobertura</string>
+    <string name="app_name">Sólo Java</string>
+    <string name="chocolate">Ordenar</string>
+    <string name="order"></string>
+</resources>

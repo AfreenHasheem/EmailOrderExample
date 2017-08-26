@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UC_Example1</string>
+    <string name="order_summary_name"></string>
+    <string name="thank_you">Je vous remercie</string>
+    <string name="toppings">Garnitures</string>
+</resources>
